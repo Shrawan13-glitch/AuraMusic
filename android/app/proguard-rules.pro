@@ -1,0 +1,5 @@
+-keep class org.mozilla.** { *; }
+-keep class org.schabi.newpipe.** { *; }
+-dontwarn java.beans.**
+-dontwarn javax.script.**
+-dontwarn org.mozilla.**
