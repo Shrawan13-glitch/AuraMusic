@@ -1,3 +1,3 @@
-# aura_music
+# AuraMusic
 
-A new Flutter project.
+A YouTube Music client for Android
